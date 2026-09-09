@@ -24,7 +24,6 @@
 			<c>
 				<c>
 					<f>2</f>
-					<tl/>
 				</c>
 			</c>
 		</row>
@@ -39,7 +38,7 @@
 					<tl>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>ПРИКАЗ</v8:content>
+							<v8:content>Приказ</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -69,49 +68,37 @@
 			<c>
 				<c>
 					<f>5</f>
-					<tl>
-						<v8:item>
-							<v8:lang>ru</v8:lang>
-							<v8:content>[ДатаДокумента]</v8:content>
-						</v8:item>
-					</tl>
 				</c>
 			</c>
 			<c>
 				<i>6</i>
 				<c>
 					<f>6</f>
-					<tl>
-						<v8:item>
-							<v8:lang>ru</v8:lang>
-							<v8:content>                                          №  [Номер]</v8:content>
-						</v8:item>
-					</tl>
 				</c>
 			</c>
 			<c>
 				<c>
-					<f>4</f>
+					<f>7</f>
 				</c>
 			</c>
 			<c>
 				<c>
-					<f>4</f>
+					<f>7</f>
 				</c>
 			</c>
 			<c>
 				<c>
-					<f>4</f>
+					<f>7</f>
 				</c>
 			</c>
 			<c>
 				<c>
-					<f>4</f>
+					<f>7</f>
 				</c>
 			</c>
 			<c>
 				<c>
-					<f>4</f>
+					<f>7</f>
 				</c>
 			</c>
 		</row>
@@ -122,13 +109,7 @@
 			<formatIndex>1</formatIndex>
 			<c>
 				<c>
-					<f>7</f>
-					<tl>
-						<v8:item>
-							<v8:lang>ru</v8:lang>
-							<v8:content>[Город].</v8:content>
-						</v8:item>
-					</tl>
+					<f>8</f>
 				</c>
 			</c>
 		</row>
@@ -139,7 +120,7 @@
 			<formatIndex>1</formatIndex>
 			<c>
 				<c>
-					<f>8</f>
+					<f>9</f>
 				</c>
 			</c>
 		</row>
@@ -157,13 +138,7 @@
 			<formatIndex>1</formatIndex>
 			<c>
 				<c>
-					<f>9</f>
-					<tl>
-						<v8:item>
-							<v8:lang>ru</v8:lang>
-							<v8:content>О предоставлении работникам дней для прохождения медосмотра</v8:content>
-						</v8:item>
-					</tl>
+					<f>10</f>
 				</c>
 			</c>
 		</row>
@@ -174,8 +149,7 @@
 			<formatIndex>1</formatIndex>
 			<c>
 				<c>
-					<f>10</f>
-					<tl/>
+					<f>11</f>
 				</c>
 			</c>
 		</row>
@@ -186,7 +160,7 @@
 			<formatIndex>1</formatIndex>
 			<c>
 				<c>
-					<f>11</f>
+					<f>12</f>
 				</c>
 			</c>
 		</row>
@@ -197,68 +171,62 @@
 			<formatIndex>1</formatIndex>
 			<c>
 				<c>
-					<f>12</f>
-					<tl>
-						<v8:item>
-							<v8:lang>ru</v8:lang>
-							<v8:content>     На основании приказа от 17.12.2025 года № 144 «О проведении медицинских осмотров», и в соответствии со статьей 185 Трудового кодекса Российской Федерации, </v8:content>
-						</v8:item>
-					</tl>
+					<f>13</f>
 				</c>
 			</c>
 			<c>
 				<c>
-					<f>4</f>
+					<f>7</f>
 				</c>
 			</c>
 			<c>
 				<c>
-					<f>4</f>
+					<f>7</f>
 				</c>
 			</c>
 			<c>
 				<c>
-					<f>4</f>
+					<f>7</f>
 				</c>
 			</c>
 			<c>
 				<c>
-					<f>4</f>
+					<f>7</f>
 				</c>
 			</c>
 			<c>
 				<c>
-					<f>4</f>
+					<f>7</f>
 				</c>
 			</c>
 			<c>
 				<c>
-					<f>4</f>
+					<f>7</f>
 				</c>
 			</c>
 			<c>
 				<c>
-					<f>4</f>
+					<f>7</f>
 				</c>
 			</c>
 			<c>
 				<c>
-					<f>4</f>
+					<f>7</f>
 				</c>
 			</c>
 			<c>
 				<c>
-					<f>4</f>
+					<f>7</f>
 				</c>
 			</c>
 			<c>
 				<c>
-					<f>4</f>
+					<f>7</f>
 				</c>
 			</c>
 			<c>
 				<c>
-					<f>4</f>
+					<f>7</f>
 				</c>
 			</c>
 		</row>
@@ -266,10 +234,10 @@
 	<rowsItem>
 		<index>11</index>
 		<row>
-			<formatIndex>13</formatIndex>
+			<formatIndex>14</formatIndex>
 			<c>
 				<c>
-					<f>12</f>
+					<f>15</f>
 				</c>
 			</c>
 		</row>
@@ -280,19 +248,13 @@
 			<formatIndex>1</formatIndex>
 			<c>
 				<c>
-					<f>14</f>
-					<tl>
-						<v8:item>
-							<v8:lang>ru</v8:lang>
-							<v8:content>ПРИКАЗЫВАЮ:</v8:content>
-						</v8:item>
-					</tl>
+					<f>16</f>
 				</c>
 			</c>
 		</row>
 	</rowsItem>
 	<templateMode>true</templateMode>
-	<defaultFormatIndex>15</defaultFormatIndex>
+	<defaultFormatIndex>7</defaultFormatIndex>
 	<height>13</height>
 	<vgRows>13</vgRows>
 	<merge>
@@ -378,13 +340,12 @@
 		<font>0</font>
 		<width>72</width>
 		<horizontalAlignment>Center</horizontalAlignment>
-		<fillType>Template</fillType>
 	</format>
 	<format>
 		<font>1</font>
 		<width>72</width>
 		<horizontalAlignment>Center</horizontalAlignment>
-		<fillType>Template</fillType>
+		<fillType>Text</fillType>
 		<format>
 			<v8:item>
 				<v8:lang>ru</v8:lang>
@@ -400,14 +361,12 @@
 		<font>2</font>
 		<width>72</width>
 		<horizontalAlignment>Left</horizontalAlignment>
-		<fillType>Template</fillType>
 		<leftMargin>64</leftMargin>
 	</format>
 	<format>
 		<font>2</font>
 		<width>72</width>
 		<horizontalAlignment>Right</horizontalAlignment>
-		<fillType>Template</fillType>
 		<format>
 			<v8:item>
 				<v8:lang>ru</v8:lang>
@@ -417,10 +376,12 @@
 		<rightMargin>72</rightMargin>
 	</format>
 	<format>
+		<width>72</width>
+	</format>
+	<format>
 		<font>2</font>
 		<width>72</width>
 		<horizontalAlignment>Center</horizontalAlignment>
-		<fillType>Template</fillType>
 		<format>
 			<v8:item>
 				<v8:lang>ru</v8:lang>
@@ -431,13 +392,11 @@
 	<format>
 		<font>2</font>
 		<width>72</width>
-		<fillType>Template</fillType>
 	</format>
 	<format>
 		<font>3</font>
 		<width>72</width>
 		<horizontalAlignment>Center</horizontalAlignment>
-		<fillType>Template</fillType>
 		<leftMargin>32</leftMargin>
 		<rightMargin>16</rightMargin>
 	</format>
@@ -445,7 +404,6 @@
 		<font>4</font>
 		<width>72</width>
 		<horizontalAlignment>Justify</horizontalAlignment>
-		<fillType>Template</fillType>
 		<leftMargin>32</leftMargin>
 		<rightMargin>16</rightMargin>
 	</format>
@@ -453,7 +411,6 @@
 		<font>2</font>
 		<width>72</width>
 		<horizontalAlignment>Justify</horizontalAlignment>
-		<fillType>Template</fillType>
 		<leftMargin>32</leftMargin>
 		<rightMargin>16</rightMargin>
 	</format>
@@ -461,7 +418,6 @@
 		<font>2</font>
 		<width>72</width>
 		<horizontalAlignment>Justify</horizontalAlignment>
-		<fillType>Template</fillType>
 		<leftMargin>64</leftMargin>
 		<rightMargin>72</rightMargin>
 	</format>
@@ -470,18 +426,22 @@
 		<fillType>Template</fillType>
 	</format>
 	<format>
-		<font>1</font>
+		<font>2</font>
 		<width>72</width>
 		<horizontalAlignment>Justify</horizontalAlignment>
 		<fillType>Template</fillType>
+		<leftMargin>64</leftMargin>
+		<rightMargin>72</rightMargin>
+	</format>
+	<format>
+		<font>1</font>
+		<width>72</width>
+		<horizontalAlignment>Justify</horizontalAlignment>
 		<indent>0</indent>
 		<autoIndent>0</autoIndent>
 		<leftMargin>64</leftMargin>
 		<topMargin>20</topMargin>
 		<rightMargin>72</rightMargin>
 		<bottomMargin>20</bottomMargin>
-	</format>
-	<format>
-		<width>72</width>
 	</format>
 </document>
