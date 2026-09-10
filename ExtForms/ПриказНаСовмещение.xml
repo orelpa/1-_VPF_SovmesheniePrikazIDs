@@ -60,6 +60,7 @@
 			</Attribute>
 			<Form>Форма</Form>
 			<Template>ВПФ_MXL_ПраказНаСовмещениеДолжностей</Template>
+			<Template>ВПФ_MXL_ДопСоглашениеСовмещение</Template>
 		</ChildObjects>
 	</ExternalDataProcessor>
 </MetaDataObject>
